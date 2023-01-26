@@ -5,8 +5,7 @@ Pratītyasamutpāda
  
  ## История 11 строк кода.
  
- https://meduza.io/feature/2016/03/28/kak-slomat-internet
-
+ 
 https://api.left-pad.io/?str=Meduza&len=10&ch=a
 
 https://gist.github.com/rauchg/5b032c2c2166e4e36713
